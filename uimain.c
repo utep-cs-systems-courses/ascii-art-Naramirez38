@@ -4,7 +4,7 @@
 int main() 
 {
   puts("Welcome!");
-
+  //hello
   while (1) { // Infinite while loop
 
     fputs("Select which shape you want to print (Triangle = t, Square = s, Chars = c) or 'q' to quit\n> ", stdout);
